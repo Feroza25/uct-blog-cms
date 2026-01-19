@@ -4,7 +4,7 @@ A modern, full-stack CMS blog platform with drag & drop page builder functionali
 
 ## 🚀 **Live Demo**
 - **Frontend:** http://localhost:3000
-- **Backend API:** http://localhost:5000
+- **Backend API:** http://localhost:5000   
 - **API Health Check:** http://localhost:5000/health
 
 ## ✨ **Features**
